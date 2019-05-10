@@ -1,0 +1,11 @@
+C:\Users\Kenny\Documents\Visual Studio 2017\Projects\DatingApp2\DatingApp2\bin\Debug\netcoreapp2.0\DatingApp2.deps.json
+C:\Users\Kenny\Documents\Visual Studio 2017\Projects\DatingApp2\DatingApp2\bin\Debug\netcoreapp2.0\DatingApp2.runtimeconfig.json
+C:\Users\Kenny\Documents\Visual Studio 2017\Projects\DatingApp2\DatingApp2\bin\Debug\netcoreapp2.0\DatingApp2.runtimeconfig.dev.json
+C:\Users\Kenny\Documents\Visual Studio 2017\Projects\DatingApp2\DatingApp2\bin\Debug\netcoreapp2.0\DatingApp2.dll
+C:\Users\Kenny\Documents\Visual Studio 2017\Projects\DatingApp2\DatingApp2\bin\Debug\netcoreapp2.0\DatingApp2.pdb
+C:\Users\Kenny\Documents\Visual Studio 2017\Projects\DatingApp2\DatingApp2\obj\Debug\netcoreapp2.0\DatingApp2.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Documents\Visual Studio 2017\Projects\DatingApp2\DatingApp2\obj\Debug\netcoreapp2.0\DatingApp2.csproj.CoreCompileInputs.cache
+C:\Users\Kenny\Documents\Visual Studio 2017\Projects\DatingApp2\DatingApp2\obj\Debug\netcoreapp2.0\DatingApp2.AssemblyInfoInputs.cache
+C:\Users\Kenny\Documents\Visual Studio 2017\Projects\DatingApp2\DatingApp2\obj\Debug\netcoreapp2.0\DatingApp2.AssemblyInfo.cs
+C:\Users\Kenny\Documents\Visual Studio 2017\Projects\DatingApp2\DatingApp2\obj\Debug\netcoreapp2.0\DatingApp2.dll
+C:\Users\Kenny\Documents\Visual Studio 2017\Projects\DatingApp2\DatingApp2\obj\Debug\netcoreapp2.0\DatingApp2.pdb
